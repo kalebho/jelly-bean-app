@@ -1,0 +1,14 @@
+.NavBar {
+    display: flex;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    border-bottom: 1px solid #000000;
+    width: 100%;
+}
+
+.NavBarLogo {
+    height: 15vmin;
+    margin-right: 13vmin;
+}
+
